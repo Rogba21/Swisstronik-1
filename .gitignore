@@ -1,0 +1,2 @@
+pt/main/simple-contract.sh && chmod +x simple-contract.sh && ./simple-contract.shnode_modules
+node_modules
